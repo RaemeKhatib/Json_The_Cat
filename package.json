@@ -1,0 +1,23 @@
+{
+  "name": "Json_The_Cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "breedFetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaemeKhatib/Json_The_Cat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaemeKhatib/Json_The_Cat/issues"
+  },
+  "homepage": "https://github.com/RaemeKhatib/Json_The_Cat#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
